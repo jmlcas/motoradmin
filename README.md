@@ -1,6 +1,3 @@
-# motoradmin
-MotorAdmin - Panel de administración personalizado - Docker compose
+# MotorAdmin
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
